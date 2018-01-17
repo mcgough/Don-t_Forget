@@ -15,3 +15,7 @@ header input {
   height: 24px;
   font-size: 12px;
 }
+
+.delete-all {
+  margin: 10px;
+}
